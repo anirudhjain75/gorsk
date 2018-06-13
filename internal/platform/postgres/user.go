@@ -2,7 +2,7 @@ package pgsql
 
 import (
 	"github.com/labstack/echo"
-	"github.com/ribice/gorsk/internal"
+	"github.com/anirudhjain75/gorsk/internal"
 
 	"github.com/go-pg/pg"
 )

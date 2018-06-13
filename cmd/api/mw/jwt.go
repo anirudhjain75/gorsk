@@ -6,9 +6,9 @@ import (
 	"time"
 
 	"github.com/labstack/echo"
-	"github.com/ribice/gorsk/internal"
+	"github.com/anirudhjain75/gorsk/internal"
 
-	"github.com/ribice/gorsk/cmd/api/config"
+	"github.com/anirudhjain75/gorsk/cmd/api/config"
 
 	jwt "github.com/dgrijalva/jwt-go"
 )

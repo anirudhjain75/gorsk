@@ -3,10 +3,10 @@ package user
 
 import (
 	"github.com/labstack/echo"
-	"github.com/ribice/gorsk/internal"
+	"github.com/anirudhjain75/gorsk/internal"
 
-	"github.com/ribice/gorsk/internal/platform/query"
-	"github.com/ribice/gorsk/internal/platform/structs"
+	"github.com/anirudhjain75/gorsk/internal/platform/query"
+	"github.com/anirudhjain75/gorsk/internal/platform/structs"
 )
 
 // New creates new user application service

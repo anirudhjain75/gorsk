@@ -4,9 +4,9 @@ import (
 	"net/http"
 
 	"github.com/labstack/echo"
-	"github.com/ribice/gorsk/cmd/api/request"
+	"github.com/anirudhjain75/gorsk/cmd/api/request"
 
-	"github.com/ribice/gorsk/internal/auth"
+	"github.com/anirudhjain75/gorsk/internal/auth"
 )
 
 // Auth represents auth http service

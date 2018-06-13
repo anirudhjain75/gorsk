@@ -7,7 +7,7 @@ import (
 
 	"github.com/go-playground/validator"
 	"github.com/labstack/echo"
-	"github.com/ribice/gorsk/cmd/api/server"
+	"github.com/anirudhjain75/gorsk/cmd/api/server"
 )
 
 // TestTime is used for testing time fields

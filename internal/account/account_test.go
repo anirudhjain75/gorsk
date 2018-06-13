@@ -5,12 +5,12 @@ import (
 
 	"github.com/labstack/echo"
 
-	"github.com/ribice/gorsk/internal/mock"
+	"github.com/anirudhjain75/gorsk/internal/mock"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/ribice/gorsk/internal"
-	"github.com/ribice/gorsk/internal/account"
-	"github.com/ribice/gorsk/internal/mock/mockdb"
+	"github.com/anirudhjain75/gorsk/internal"
+	"github.com/anirudhjain75/gorsk/internal/account"
+	"github.com/anirudhjain75/gorsk/internal/mock/mockdb"
 )
 
 func TestCreate(t *testing.T) {

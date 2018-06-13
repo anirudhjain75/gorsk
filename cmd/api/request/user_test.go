@@ -6,10 +6,10 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/ribice/gorsk/internal/mock"
+	"github.com/anirudhjain75/gorsk/internal/mock"
 	"github.com/stretchr/testify/assert"
 
-	"github.com/ribice/gorsk/cmd/api/request"
+	"github.com/anirudhjain75/gorsk/cmd/api/request"
 )
 
 func TestUserUpdate(t *testing.T) {

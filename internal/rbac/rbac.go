@@ -2,7 +2,7 @@ package rbac
 
 import (
 	"github.com/labstack/echo"
-	"github.com/ribice/gorsk/internal"
+	"github.com/anirudhjain75/gorsk/internal"
 )
 
 // New creates new RBAC service

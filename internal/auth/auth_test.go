@@ -5,10 +5,10 @@ import (
 	"time"
 
 	"github.com/labstack/echo"
-	"github.com/ribice/gorsk/internal"
-	"github.com/ribice/gorsk/internal/auth"
-	"github.com/ribice/gorsk/internal/mock"
-	"github.com/ribice/gorsk/internal/mock/mockdb"
+	"github.com/anirudhjain75/gorsk/internal"
+	"github.com/anirudhjain75/gorsk/internal/auth"
+	"github.com/anirudhjain75/gorsk/internal/mock"
+	"github.com/anirudhjain75/gorsk/internal/mock/mockdb"
 	"github.com/stretchr/testify/assert"
 )
 
